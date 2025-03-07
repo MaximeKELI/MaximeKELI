@@ -1,6 +1,34 @@
-# 💫 About Me:
-👋 Salut ! Je suis Maxime KELI<br>💻 Développeur polyvalent et passionné par l'innovation technologique<br><br>🎯 Ce que je fais<br><br>    Développement d'applications avec Python, JavaScript, SQL et des frameworks comme Django et Flutter<br>    Création de sites web interactifs avec Bootstrap, HTML, CSS, et React<br>    Exploration de l'intelligence artificielle (reconnaissance d'objets et autres projets avancés)<br>    Gestion de bases de données complexes (jusqu'à 100 tables)<br><br>🌍 Intérêts complémentaires<br><br>    Géomatique, géostatistique et géodésie, en lien avec mon diplôme en géographie<br>    Intégration des mathématiques et de l'informatique dans des projets innovants<br>    Développement de jeux vidéo inspirés de Mario et GTA<br><br>📜 Certifications<br><br>    CS50 Python et SQL<br>    Cybersécurité professionnelle (Google)<br><br>📖 Toujours en apprentissage<br>Actuellement, j’améliore mon anglais et approfondis mes connaissances en Flutter, tout en explorant les liens entre informatique et géosciences.<br><br>💡 Mon approche<br>Je crois en la puissance de la collaboration open source et en l'importance de créer des solutions simples mais efficaces.<br><br>📬 Envie de collaborer ?<br>N’hésitez pas à me contacter pour des projets, des idées ou simplement pour échanger !
+💫 About Me:
 
+🔹 I'm passionate about web and mobile application development, with expertise in Python, JavaScript, PHP, and technologies like Django, React, and Flutter.
+🔹 I have strong experience in SQL and database management for complex applications.
+🔹 Interested in artificial intelligence, I work on projects related to object recognition and data analysis.
+🔹 My background in geomatics and geodesy allows me to integrate technological solutions into spatial analysis.
+🔹 I also have cybersecurity skills, backed by Google and CS50 certifications.
+
+🚀 Currently working on: Hospital management systems, e-commerce platforms, and educational applications.
+
+📫 Contact me:
+🔹 Geomatics, geostatistics, and geodesy, linked to my degree in geography.
+🔹 Integration of mathematics and computer science into innovative projects.
+🔹 Game development, inspired by Mario and GTA.
+
+📜 Certifications
+✅ CS50 Python and SQL
+✅ Professional Cybersecurity Certification (Google)
+
+📖 Always Learning
+Currently improving my English skills and deepening my knowledge of Flutter, while exploring the connection between computer science and geosciences.
+
+💡 My Approach
+I believe in the power of open-source collaboration and the importance of creating simple yet effective solutions.
+
+📬 Want to collaborate?
+Feel free to reach out for projects, ideas, or just a tech discussion!
+
+Github: https://github.com/MaximeKELI?tab=repositories
+linkedin: https://github.com/MaximeKELI?tab=repositories
+📞 Phone: +228 98600018
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-keli-22922a298) 
