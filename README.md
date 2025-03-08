@@ -1,6 +1,6 @@
 💫 About Me:
 
-🔹 I'm passionate about web and mobile application development, with expertise in Python, JavaScript, PHP, and technologies like Django, React, and Flutter.
+🔹 My name is Maxime KELI , I'm passionate about web and mobile application development, with expertise in Python, JavaScript, PHP, and technologies like Django, React, and Flutter.
 🔹 I have strong experience in SQL and database management for complex applications.
 🔹 Interested in artificial intelligence, I work on projects related to object recognition and data analysis.
 🔹 My background in geomatics and geodesy allows me to integrate technological solutions into spatial analysis.
