@@ -1,220 +1,288 @@
 <div align="center">
-  
-# 👋 Hello, I'm Maxime KELI! 
 
-### 💻 Full Stack Developer | 🌍 Geomatics Specialist | 🔐 Cybersecurity Enthusiast
+<!-- Header avec animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=👋+Hello%2C+I'm+Maxime+KELI;💻+Full+Stack+Developer;🌍+Geomatics+Specialist;🔐+Cybersecurity+Expert;🤖+AI+Enthusiast;🚀+Always+Building+Something+Cool" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Geomatics+%26+Geodesy+Expert;Cybersecurity+Certified;AI+%26+Data+Science+Enthusiast;Always+Learning+%F0%9F%93%9A&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=00D9FF&vCenter=true&size=28)](https://git.io/typing-svg)
+<!-- Badges animés en haut -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaximeKeli&color=00D9FF&style=plastic&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MaximeKeli?color=00D9FF&style=plastic&label=FOLLOWERS&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MaximeKeli?color=FFD700&style=plastic&label=STARS" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/MaximeKeli?color=00FF88&style=plastic&label=FORKS" alt="GitHub Forks" />
+</p>
 
----
+<!-- Ligne de séparation animée -->
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me_line.svg" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaximeKeli&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/MaximeKeli?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/MaximeKeli)
-[![GitHub stars](https://img.shields.io/github/stars/MaximeKeli?color=FFD700&logo=github&style=for-the-badge)](https://github.com/MaximeKeli)
-
----
+<!-- Animation de titre -->
+<img align="center" src="https://github-readme-streak-stats.demolab.com?user=MaximeKeli&theme=react&hide_border=false&border_radius=20&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
-## 💫 About Me:
+---
+
+<div align="center">
+
+# 💫 ABOUT ME
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+<div align="center">
+
+```cpp
+class MaximeKeli {
+public:
+    string name = "Maxime KELI";
+    string role = "Full Stack Developer";
+    string location = "🌍 Togo";
+    
+    array<string> expertise = {
+        "Python", "JavaScript", "PHP", "Django", 
+        "React", "Flutter", "SQL", "AI/ML",
+        "Cybersecurity", "Geomatics"
+    };
+    
+    array<string> currentProjects = {
+        "Hospital Management Systems",
+        "E-commerce Platforms", 
+        "Educational Applications",
+        "Game Development (C++/SDL2)"
+    };
+    
+    bool isAvailableForCollab = true;
+    
+    void sayHello() {
+        cout << "Always learning, always building! 🚀" << endl;
+    }
+};
+```
+
+</div>
+
+---
+
+## 🎯 CURRENT FOCUS
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 🚀 Active Development
+
+![Hospital Management](https://img.shields.io/badge/🏥_Hospital_Management-In_Progress-00D9FF?style=for-the-badge&logo=hospital&logoColor=white)
+![E-commerce](https://img.shields.io/badge/🛒_E_commerce_Platform-In_Progress-00D9FF?style=for-the-badge&logo=shopify&logoColor=white)
+![Education](https://img.shields.io/badge/📚_Educational_Apps-In_Progress-00D9FF?style=for-the-badge&logo=academia&logoColor=white)
+![Game Dev](https://img.shields.io/badge/🎮_Game_Development-Designing-00D9FF?style=for-the-badge&logo=unity&logoColor=white)
+
+</td>
+<td>
+
+### 📚 Learning Journey
+
+![Flutter](https://img.shields.io/badge/📱_Flutter-Deepening-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![English](https://img.shields.io/badge/🇬🇧_English-Improving-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI/ML](https://img.shields.io/badge/🤖_AI_ML-Exploring-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GeoScience](https://img.shields.io/badge/🌍_CS_×_Geosciences-Connecting-00FF88?style=for-the-badge&logo=globe&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ TECH STACK
+
+<div align="center">
+
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white)
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🛠️ Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximeKeli&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_color=00D9FF)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeKeli&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&border_color=00D9FF)
+
+</td>
+</tr>
+</table>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximeKeli&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&custom_title=GitHub%20Contribution%20Graph)
+
+</div>
+
+---
+
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+![CS50](https://img.shields.io/badge/CS50_Python_&_SQL-Harvard_University-FF6F00?style=for-the-badge&logo=cs50&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Professional_Cert-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 🎓 Professional Certifications
+
+![Certification Badge](https://img.shields.io/badge/✅_CS50_Python_and_SQL-Completed-00FF88?style=plastic&logo=cs50)
+![Certification Badge](https://img.shields.io/badge/✅_Professional_Cybersecurity_Google-Completed-00FF88?style=plastic&logo=google)
+
+</div>
+
+---
+
+## 💡 EXPERTISE AREAS
+
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║   🔹 Full Stack Developer passionate about creating          ║
-║      innovative web and mobile applications                   ║
+║  💻 FULL STACK DEVELOPMENT                                    ║
+║  ┌─────────────────────────────────────────────────────────┐ ║
+║  │ Frontend: React | HTML5 | CSS3 | JavaScript             │ ║
+║  │ Backend:  Django | Flask | Express.js | PHP            │ ║
+║  │ Mobile:   Flutter | Dart                                │ ║
+║  └─────────────────────────────────────────────────────────┘ ║
 ║                                                               ║
-║   🔹 Expertise in Python, JavaScript, PHP, Django,           ║
-║      React, and Flutter                                       ║
+║  🗄️ DATABASE MANAGEMENT                                      ║
+║  ┌─────────────────────────────────────────────────────────┐ ║
+║  │ SQL:     MySQL | PostgreSQL | SQLite | MariaDB         │ ║
+║  │ NoSQL:   MongoDB | Firebase                             │ ║
+║  │ Design:  Complex schema design & optimization           │ ║
+║  └─────────────────────────────────────────────────────────┘ ║
 ║                                                               ║
-║   🔹 Strong background in SQL and database management        ║
-║      for complex enterprise applications                      ║
+║  🤖 ARTIFICIAL INTELLIGENCE                                  ║
+║  ┌─────────────────────────────────────────────────────────┐ ║
+║  │ Frameworks: TensorFlow | PyTorch | Keras               │ ║
+║  │ Libraries:  Pandas | NumPy | Matplotlib                │ ║
+║  │ Focus:      Object recognition | Data analysis         │ ║
+║  └─────────────────────────────────────────────────────────┘ ║
 ║                                                               ║
-║   🔹 AI Enthusiast working on object recognition and         ║
-║      data analysis projects                                   ║
+║  🌍 GEOMATICS & SPATIAL ANALYSIS                             ║
+║  ┌─────────────────────────────────────────────────────────┐ ║
+║  │ GIS:          Spatial data processing                   │ ║
+║  │ Geostatistics: Statistical analysis                     │ ║
+║  │ Integration:  Tech solutions in spatial context        │ ║
+║  └─────────────────────────────────────────────────────────┘ ║
 ║                                                               ║
-║   🔹 Geomatics & Geodesy specialist integrating              ║
-║      technology with spatial analysis                        ║
-║                                                               ║
-║   🔹 Cybersecurity certified (Google & CS50)                 ║
+║  🔐 CYBERSECURITY                                             ║
+║  ┌─────────────────────────────────────────────────────────┐ ║
+║  │ Certifications: Google | CS50                           │ ║
+║  │ Best practices: Secure coding                           │ ║
+║  │ Knowledge:     Threat analysis & prevention            │ ║
+║  └─────────────────────────────────────────────────────────┘ ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-### 🌟 Current Focus Areas:
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🚀 **Active Projects**
-- 🏥 **Hospital Management Systems**
-- 🛒 **E-commerce Platforms**
-- 📚 **Educational Applications**
-- 🎮 **Game Development** (Mario & GTA inspired)
-
-</td>
-<td width="50%">
-
-#### 📚 **Learning & Growth**
-- 🇬🇧 Improving English proficiency
-- 📱 Deepening Flutter knowledge
-- 🌍 Exploring CS & Geosciences connection
-- 🤖 Advanced AI & Machine Learning
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3670A0)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=323330)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3)
-
-</div>
-
-### 🌐 Web Development
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=323330)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=20232a)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&labelColor=000)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=404d59)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8511FA)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=117AC9)
-
-</div>
-
-### 📱 Mobile Development
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=02569B)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&labelColor=039BE5)
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4ea94b)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=07405e)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=003545)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=F80000)
-
-</div>
-
-### 🤖 AI & Data Science
-
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=EE4C2C)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&labelColor=D00000)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&labelColor=ffffff)
-
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&labelColor=039BE5)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white&labelColor=D42029)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=0db7ed)
-
-</div>
-
-### 🛠️ Tools & Others
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=F05033)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=181717)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&labelColor=00C4CC)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=00979D)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white&labelColor=008080)
-
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### 📈 **GitHub Stats**
-
-[![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximeKeli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF)](https://github.com/MaximeKeli)
-
-### 🔥 **GitHub Streak**
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MaximeKeli&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-### 💻 **Most Used Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeKeli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10)](https://github.com/MaximeKeli)
-
-</div>
-
----
-
-## 🏆 Certifications & Achievements
+## 🌟 MY APPROACH
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-### ✅ **Certifications**
-
-![CS50](https://img.shields.io/badge/CS50-Python%20%26%20SQL-FF6F00?style=for-the-badge&logo=cs50&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**🎓 Professional Certifications:**
-- ✅ **CS50 Python and SQL** - Harvard University
-- ✅ **Professional Cybersecurity** - Google
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 **Expertise Areas**
-
-![Web Dev](https://img.shields.io/badge/Web%20Dev-Full%20Stack-61DAFB?style=for-the-badge)
-![Mobile](https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-4285F4?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/🤝_Open_Source-Collaboration-00D9FF?style=for-the-badge)
+![Simple Solutions](https://img.shields.io/badge/🎯_Simple-Effective_Solutions-00FF88?style=for-the-badge)
+![Continuous Learning](https://img.shields.io/badge/📚_Always-Learning-FFD700?style=for-the-badge)
+![Innovation](https://img.shields.io/badge/🔄_Innovation-Creativity-FF6F00?style=for-the-badge)
+![Impact](https://img.shields.io/badge/🌍_Tech-Impact-4285F4?style=for-the-badge)
 
 </td>
 </tr>
@@ -224,90 +292,33 @@
 
 ---
 
-## 🎯 My Expertise
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  💻 FULL STACK DEVELOPMENT                                  │
-│  ├─ Frontend: React, HTML5, CSS3, JavaScript               │
-│  ├─ Backend: Django, Flask, Express.js, PHP                │
-│  └─ Mobile: Flutter, Dart                                  │
-│                                                             │
-│  🗄️ DATABASE MANAGEMENT                                     │
-│  ├─ SQL: MySQL, PostgreSQL, SQLite, MariaDB               │
-│  ├─ NoSQL: MongoDB, Firebase                               │
-│  └─ Design: Complex schema design & optimization           │
-│                                                             │
-│  🤖 ARTIFICIAL INTELLIGENCE                                 │
-│  ├─ Frameworks: TensorFlow, PyTorch, Keras                 │
-│  ├─ Libraries: Pandas, NumPy, Matplotlib                   │
-│  └─ Applications: Object recognition, Data analysis        │
-│                                                             │
-│  🌍 GEOMATICS & SPATIAL ANALYSIS                            │
-│  ├─ GIS: Spatial data processing                          │
-│  ├─ Geostatistics: Statistical analysis                    │
-│  └─ Integration: Tech solutions in spatial context        │
-│                                                             │
-│  🔐 CYBERSECURITY                                           │
-│  ├─ Certifications: Google, CS50                           │
-│  ├─ Best practices: Secure coding                          │
-│  └─ Knowledge: Threat analysis & prevention                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 💡 My Approach
+## 📬 LET'S CONNECT
 
 <div align="center">
 
-### 🌟 **Core Values**
+### 🌐 Social Media & Contact
 
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   🤝 Open-source Collaboration                  ║
-║   🎯 Simple yet Effective Solutions             ║
-║   📚 Continuous Learning                        ║
-║   🔄 Innovation & Creativity                    ║
-║   🌍 Impactful Technology Integration           ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime_Keli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-keli-22922a298)
+[![GitHub](https://img.shields.io/badge/GitHub-MaximeKeli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaximeKeli)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@maximekeli.dev)
+[![Phone](https://img.shields.io/badge/Phone-+228_98600018-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+22898600018)
 
 </div>
 
----
-
-## 📬 Let's Connect!
-
 <div align="center">
 
-### 🌐 **Social Media & Contact**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/maxime-keli-22922a298)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/MaximeKeli)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:contact@maximekeli.dev)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+22898600018)
-
-**📞 Phone:** +228 98600018
-
----
-
-### 💬 **Let's Collaborate!**
+### 💬 Collaboration
 
 ```
 ┌─────────────────────────────────────────────┐
 │                                             │
-│   🚀 Have a project idea?                   │
-│   💡 Want to discuss tech?                  │
-│   🤝 Looking for collaboration?             │
-│   📧 Feel free to reach out!                │
+│  🚀 Have a project idea?                    │
+│  💡 Want to discuss tech?                  │
+│  🤝 Looking for collaboration?             │
+│  📧 Feel free to reach out!                │
 │                                             │
-│   I'm always open to new opportunities     │
-│   and exciting projects!                    │
+│  I'm always open to new opportunities     │
+│  and exciting projects!                    │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
@@ -316,62 +327,58 @@
 
 ---
 
-## 🎮 Current Projects
+## 🎮 CURRENT PROJECTS
 
 <div align="center">
 
-| Project Type | Status | Technologies |
-|-------------|--------|--------------|
-| 🏥 **Hospital Management** | 🚧 In Progress | Django, React, PostgreSQL |
-| 🛒 **E-commerce Platform** | 🚧 In Progress | Flutter, Firebase, MySQL |
-| 📚 **Educational App** | 🚧 In Progress | Flutter, Django REST API |
-| 🎮 **Game Development** | 🎨 Designing | C++, SDL2 (Mario/GTA inspired) |
+<table>
+<tr>
+<td align="center" width="50%">
+
+![Hospital](https://img.shields.io/badge/🏥_Hospital_Management-Django_React_PostgreSQL-00D9FF?style=plastic&logo=hospital)
+![E-commerce](https://img.shields.io/badge/🛒_E_commerce-Flutter_Firebase_MySQL-00D9FF?style=plastic&logo=shopify)
+![Education](https://img.shields.io/badge/📚_Educational_App-Flutter_Django_REST-00D9FF?style=plastic&logo=academia)
+![Game Dev](https://img.shields.io/badge/🎮_Game_Development-C++_SDL2-00D9FF?style=plastic&logo=unity)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
-
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximeKeli&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)
+## 🚀 SPECIAL INTERESTS
+
+![Geomatics](https://img.shields.io/badge/🌍_Geomatics_&_Geostatistics-Passion-00FF88?style=for-the-badge&logo=globe)
+![Mathematics](https://img.shields.io/badge/📐_Mathematics_×_CS-Innovation-4285F4?style=for-the-badge&logo=calculator)
+![Game Dev](https://img.shields.io/badge/🎮_Game_Development-Mario_&_GTA-FF6F00?style=for-the-badge&logo=unity)
 
 </div>
 
 ---
 
-## 📝 Featured Projects
-
 <div align="center">
 
-### 🌟 **Check out my repositories!**
-
-[![GitHub Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaximeKeli?tab=repositories)
-
----
-
-<div align="center">
-
-### 💖 **Thank you for visiting my profile!**
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=MaximeKeli&icon=5&color=0&label=VISITORS&pretty=false)
+![Visitor Count](https://visitcount.itsvg.in/api?id=MaximeKeli&icon=0&color=0&label=VISITORS&pretty=false)
 
 **⭐ Star some repositories if you find them interesting!**
 
 ---
 
-**⚡ Fun Fact:** *I'm always learning something new, and I believe that combining technology with geosciences can solve many real-world problems!*
+### ⚡ Fun Fact
+
+*I'm always learning something new, and I believe that combining technology with geosciences can solve many real-world problems!*
 
 ---
 
-<div align="center">
+### 🎯 Status
 
-### 🎯 **Currently Working On:**
-
-![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Flutter%20%26%20AI-blue?style=for-the-badge)
-![Available](https://img.shields.io/badge/Available-For%20Collaboration-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge&logo=statuspal)
+![Learning](https://img.shields.io/badge/Learning-Flutter_&_AI-blue?style=for-the-badge&logo=bookstack)
+![Available](https://img.shields.io/badge/Available-For_Collaboration-green?style=for-the-badge&logo=handshake)
 
 ---
 
@@ -379,5 +386,6 @@
 
 *Last updated: 2024*
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=65&section=footer"/>
 </div>
-
